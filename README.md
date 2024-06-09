@@ -4,3 +4,10 @@ Já existe um relatório pronto na pasta newman com o nome de ListaDeExercicios-
 ```console
 newman run "Endereço do arquivo no seu sistema" -r htmlextra
 ```
+Exercício 2:
+1) Foi desenvolvida uma suíte de testes para a lista
+2) Os testes desenvolvidos foram automatizados
+3) Testes de Integração
+4) Eles são testes funcionais
+5) Não
+6) Deve ser rodado a mesma suite em uma versão nova da API com novas funções implementadas para se garantir que as mudanças não alteraram as features prévias
